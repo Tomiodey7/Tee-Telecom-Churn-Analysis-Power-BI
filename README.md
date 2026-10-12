@@ -1,6 +1,6 @@
 # TEE TELECOM CHURN ANALYSIS - Power BI
 
-**Tools:8** Power BI Desktop, DAX, Power Query
+**Tools:** Power BI Desktop, DAX, Power Query
 
 **Overview:** Analyzed 7,000 plus telecom customers with 26.5% churn rate (1,869 churned). Built a 4-page executive dashboard to identify churn drivers and high-risk segments.
 
