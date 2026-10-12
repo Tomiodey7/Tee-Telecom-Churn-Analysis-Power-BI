@@ -12,6 +12,9 @@
 - Churned customers pay $74 vs $61 retained - $13 higher
 - 47% of customers are Critical or High risk (Avg risk score churned 10.08 vs retained 5.11)
 
+<img width="6150" height="3525" alt="Overview" src="https://github.com/user-attachments/assets/53464dc2-6d41-46d3-8fef-2ed653a29fd0" />
+
+
 **Pages:**
 1. OVERVIEW - KPIs and contract / tenure analysis
 2. DEEP DIVE - Payment method, internet service, senior citizens, dependants, charges
