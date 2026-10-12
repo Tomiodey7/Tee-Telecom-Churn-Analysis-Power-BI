@@ -22,4 +22,4 @@
 
 **Business Recommendations:** Focus retention on new, month-to-month, electronic check, fiber optic and high-risk score customers. Incentivize longer contracts and auto-pay.
 
-[Live PDF Report](./Tee Telecom Churn Dasdboard.pdf)
+[Live PDF Report](./Tee_Telecom_Churn_Dasdboard.pdf) 
